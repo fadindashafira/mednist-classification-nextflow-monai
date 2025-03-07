@@ -64,19 +64,6 @@ You can customize parameters by modifying `conf/params.config` or by passing par
 nextflow run main.nf --epochs 10 --batch_size 32 --learning_rate 0.001
 ```
 
-### Execution with Different Profiles
-
-```bash
-# Run with Docker
-nextflow run main.nf -profile docker
-
-# Run with Singularity
-nextflow run main.nf -profile singularity
-
-# Run on HPC with SLURM
-nextflow run main.nf -profile slurm
-```
-
 ## Project Structure
 
 ```
