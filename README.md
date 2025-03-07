@@ -126,10 +126,6 @@ The project uses a simple Convolutional Neural Network (CNN) with:
 - Flatten layer
 - 2 fully connected layers with dropout for regularization
 
-## License
-
-[MIT License](LICENSE)
-
 ## Acknowledgments
 
 - [MONAI](https://monai.io/) for the medical imaging framework
