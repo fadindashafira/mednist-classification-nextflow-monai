@@ -16,7 +16,6 @@ The pipeline consists of three main stages:
 - **Automatic Dataset Management**: Automatic downloading and extraction of the MedNIST dataset
 - **Simple CNN Architecture**: Lightweight convolutional neural network for medical image classification
 - **Reproducible Workflow**: Consistent execution across different environments
-- **Scalable Execution**: Run on local machines, HPC clusters, or cloud environments
 - **Comprehensive Evaluation**: Generate detailed metrics, confusion matrix, and ROC curve
 
 ## Requirements
